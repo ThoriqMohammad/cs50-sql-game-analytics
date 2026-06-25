@@ -82,6 +82,11 @@ You can also add a `LICENSE` file (e.g., MIT License) by clicking **"Add file"**
 ---
 
 ## 📂 Final Repository Structure
-
+cs50-sql-game-analytics/
+├── DESIGN.md
+├── README.md
+├── game_analytics.db (optional)
+├── queries.sql
+└── schema.sql
 
 
