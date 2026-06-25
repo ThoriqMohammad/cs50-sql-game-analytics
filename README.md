@@ -45,3 +45,43 @@ The database includes sample data from **3 Tic‑Tac‑Toe games** – enough to
    .read queries.sql
 
 This project was completed as part of CS50's Introduction to Databases with SQL (HarvardX).
+
+🎥 Video Demo
+
+[Watch on YouTube](https://www.youtube.com/watch?v=1dUg9BjHMNo)
+
+📚 Course
+
+This project was completed as part of CS50's Introduction to Databases with SQL (HarvardX).
+
+👤 Author
+
+Mohammad Thoriq
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 🛠️ How to Add It
+
+1. **Create a new file** in your GitHub repository called `README.md`.
+2. **Copy the above content** into the file.
+3. **Replace placeholders**:
+   - `yourusername` – your GitHub username
+   - `YOUR_VIDEO_ID` – your YouTube video ID (or full link)
+4. **Commit and push** to GitHub.
+
+---
+
+## ✅ Optional: Add a License
+
+You can also add a `LICENSE` file (e.g., MIT License) by clicking **"Add file"** → **"Create new file"** → name it `LICENSE` and choose the MIT template.
+
+---
+
+## 📂 Final Repository Structure
+
+
+
